@@ -42,26 +42,23 @@ switch2.
 Direct connection
 
 CIRCUIT DIAGRAM:
-<img width="774" height="527" alt="Screenshot 2026-10-14 221911" src="https://github.com/user-attachments/assets/40cfa470-abf3-4372-a2f6-ec983997d26b" />
+<img width="809" height="555" alt="Screenshot 2026-10-21 162240" src="https://github.com/user-attachments/assets/8edfd8c8-8b25-4997-8392-0b4ba9dbd845" />
 
-<img width="804" height="485" alt="Screenshot 2026-10-14 220959" src="https://github.com/user-attachments/assets/26440b20-4acb-444a-9e43-a230d09cf405" />
+
 
 Tabulation:1
-<img width="1280" height="724" alt="WhatsApp Image 2026-10-14 at 10 14 00 PM" src="https://github.com/user-attachments/assets/05ea0abe-a963-48f7-bbb9-35fcb0cae5e1" />
+<img width="1280" height="724" alt="WhatsApp Image 2026-10-14 at 10 14 00 PM" src="https://github.com/user-attachments/assets/75caa4cc-446d-4f32-8473-c45fcb195d64" />
 
 	
 Cross connection
 
 CIRCUIT DIAGRAM:
-<img width="736" height="505" alt="Screenshot 2026-10-14 221159" src="https://github.com/user-attachments/assets/258a4494-2a88-4f7c-aafd-e9b71a03317d" />
-
-<img width="758" height="511" alt="Screenshot 2026-10-14 221307" src="https://github.com/user-attachments/assets/9863ddde-d9e3-455d-a51a-128cb87ff18b" />
+<img width="765" height="534" alt="Screenshot 2026-10-21 172015" src="https://github.com/user-attachments/assets/59e5e8a1-d306-4199-a4b0-57da137b3c7c" />
 
 
 
 Tabulation:2
-<img width="1280" height="969" alt="WhatsApp Image 2026-10-14 at 10 14 14 PM" src="https://github.com/user-attachments/assets/b7f0952c-8810-4c7f-8ab7-31a60ebb52f1" />
-
+<img width="1280" height="969" alt="WhatsApp Image 2026-10-14 at 10 14 14 PM" src="https://github.com/user-attachments/assets/db371a3a-791a-4d77-be05-0bc5f34022a4" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
